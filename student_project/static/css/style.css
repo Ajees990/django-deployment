@@ -1,0 +1,18 @@
+h1{
+    background: aqua;
+    color:black;
+}
+
+
+img{
+    width:450px;
+    Height: 450px;
+    display: block;
+}
+
+table, th, td{
+    border: 2px solid black;
+              border-collapse: collapse;
+    text-align: center;
+
+}
